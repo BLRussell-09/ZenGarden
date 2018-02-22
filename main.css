@@ -1,3 +1,4 @@
 body {
-  background-image: url(http://www.csszengarden.com/079/flower_bg.jpg)
+  background-image: url(http://www.csszengarden.com/079/flower_bg.jpg);
+  background-repeat: no-repeat;
 }
