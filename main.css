@@ -4,6 +4,7 @@ body {
   display: table;
   margin: 0;
   font-size: 70%;
+  color : #030;
 }
 
 header {
@@ -12,6 +13,10 @@ header {
   margin-left: -8px
 }
 
+h3 {
+  border-bottom: 1px solid green;
+  color: purple;
+}
 .zGarden {
   margin-left: 10px;
 }
@@ -29,14 +34,32 @@ header {
 
 .right-column {
   float: right;
-  width: 63%;
-  height: 325px;
   overflow: scroll;
   overflow-x: hidden;
-  /* position: absolute; */
+  position: absolute;
+  left: 268px;
+  top: 145px;
+  width: 63%;
+  height: 297px
 }
 
 footer {
   position: absolute;
-  bottom: 0;
+  bottom: 64px;
+}
+
+.left-footer {
+  float: left;
+  margin-top: 71px;
+  padding-top: 2px;
+  margin-right: 130px;
+  margin-left: 70px;
+}
+
+.right-footer {
+  float: right;
+  left: 268px;
+  margin-left: 0;
+  margin-right: 293px;
+  /* margin-bottom: 101px */
 }
