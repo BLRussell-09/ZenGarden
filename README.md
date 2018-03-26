@@ -4,6 +4,9 @@
 > Practice html and css by copying design and remade writing semantic HTML and well organized CSS
 
 ## Screenshots
+![screen shot](https://raw.githubusercontent.com/BLRussell-09/ZenGarden/master/Screenshots/Zen.png "Screen Shots")
+
+
 
 ## Fire It Up
 > Serve up the site and load the page
